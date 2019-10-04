@@ -65,7 +65,7 @@ function checkCheckbox4(){
     }
 }  
 
-alert("Enter desired password criteria. If no criteria are selected, all will be included.")
+alert("Enter desired password criteria. If no criteria are selected, password will not generate.")
 //generate random password
 function generatePassword(){
 
