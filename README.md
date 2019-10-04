@@ -6,7 +6,7 @@ This application is designed to generate a random password, based on user-select
 
 The applicatication will deploy by selecting the following link,  and the window will appear as shown below.
 
-![image](./Assets/Screen Shot.png)
+![image](Screen Shot.png)
 
 Methodology
 
