@@ -17,10 +17,8 @@ var checkbox4 = document.getElementById("defaultCheck4");
 checkbox4.addEventListener("click", checkCheckbox4);
 
 function checkCheckbox1(){
-    console.log('we are here');
     if (checkbox1.checked){
         lowercaseChars = "abcdefghijklmnopqrstuvwxyz";
-        console.log('we added the characters and the are ' + lowercaseChars);
     }
     else {
         lowercaseChars = ""
@@ -30,10 +28,8 @@ function checkCheckbox1(){
 }
 
 function checkCheckbox2(){
-    console.log('we are here');
     if (checkbox2.checked){
         uppercaseChars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-        console.log('we added the characters and the are ' + uppercaseChars);
     }
     else {
         uppercaseChars = ""
@@ -42,10 +38,8 @@ function checkCheckbox2(){
 }
 
 function checkCheckbox3(){
-    console.log('we are here');
     if (checkbox3.checked){
         numericChars = "0123456789"
-        console.log('we added the characters and the are ' + numericChars);
     }
     else {
         numericChars = ""
@@ -57,7 +51,6 @@ function checkCheckbox4(){
     console.log('we are here');
     if (checkbox4.checked){
         specialChars = "!#$%&'()*+,-./:;=>?@[^_`{|}~"
-        console.log('we added the characters and the are ' + specialChars);
     }
     else {
         specialChars = ""
@@ -66,6 +59,7 @@ function checkCheckbox4(){
 }  
 
 alert("Enter desired password criteria. If no criteria are selected, password will not generate.")
+
 //generate random password
 function generatePassword(){
 
