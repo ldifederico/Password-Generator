@@ -4,7 +4,7 @@
 
 This application is designed to generate a random password, based on user-selected criteria, to protect sensitive data. The user selects their desired password criteria from the following options - length (between 8 and 128 characters), lowercase characters, uppercase characters, numeric characters and special characters. 
 
-The applicatication will deploy by selecting the following link, https://ldifederico.github.io/Password-Generator/and. The window will appear as shown below.
+The applicatication will deploy by selecting the following link, https://ldifederico.github.io/Password-Generator/. The window will appear as shown below.
 
 ![Image of Screen Shot](https://raw.githubusercontent.com/ldifederico/Password-Generator/master/Screen%20Shot.png)
 
