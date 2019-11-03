@@ -1,6 +1,4 @@
-**Password Generator**
-
-**Description**
+## Password Generator
 
 This application is designed to generate a random password, based on user-selected criteria, to protect sensitive data. The user selects their desired password criteria from the following options - length (between 8 and 128 characters), lowercase characters, uppercase characters, numeric characters and special characters. 
 
